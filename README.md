@@ -194,3 +194,4 @@ The standard licence for Xibo is the [AGPLv3](LICENSE). For more information ple
 Support requests can be reported on the [Xibo Community Forum](https://community.xibo.org.uk/c/dev). Verified, 
 re-producable bugs with this repository can be reported in 
 the [Xibo parent repository](https://github.com/xibosignage/xibo/issues).
+<!-- comment -->
